@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "react-easy-crop": "^5.2.0",
+    "react-image-crop": "^11.0.7",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "^11.0.2"
+  },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    }
+}
